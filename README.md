@@ -15,6 +15,7 @@
 ./benchmark.sh      # 自动识别系统并测试
 ./perf_test.sh raw  # 调优前测试
 ./perf_test.sh tuned # 调优后测试
+'''
 
 ## 📈 核心成果
 单机环境配置时间从 2 小时缩短至 10 分钟
