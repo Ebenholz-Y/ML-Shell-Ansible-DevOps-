@@ -28,11 +28,13 @@ sudo 输入对应脚本名.sh [参数]
 
 ## 📸 效果截图（详参输出例文件及截图）
 RHEL系统:
+
 <img width="490" height="192" alt="RHEL部署流程耗时" src="https://github.com/user-attachments/assets/2670b27d-91cf-407d-974f-465ab30f8fb1" />
 
 <img width="563" height="406" alt="RHEL调优前后数据对比" src="https://github.com/user-attachments/assets/0297da39-0f28-4655-bbe2-340de0957beb" />
 
 Ubuntu系统：
+
 <img width="531" height="202" alt="Ubuntu部署流程耗时" src="https://github.com/user-attachments/assets/3f471af3-0037-4eae-b642-0819bd5a4552" />
 
 <img width="661" height="272" alt="Ubuntu调优前数据" src="https://github.com/user-attachments/assets/801dbb1c-65f2-4bdb-8ff3-cb83c96707dc" />
